@@ -26,10 +26,12 @@
 - [x] [Review Big O notation and complexity analysis](<Phase 1/0 Algorithm Foundations.md>)
 - [x] Implement basic data structures from scratch ([Array](<Phase 1/1_array_from_scratch.cpp>), [LinkedList](<Phase 1/2_linked_list_from_scratch.cpp>), [Stack](<Phase 1/3_stack_from_scratch.cpp>), Queue)
 - [x] LeetCode: Complete 2 Easy problems
+  - [Two Sum Problem](<Phase 1/5_two_sum_problem.md>)
+  - [Add Two Numbers](<Phase 1/6_add_two_numbers.md>)
 - **Milestone:** Understand time/space complexity fundamentals
 
 **Wednesday - Data Structures Deep Dive**
-- [ ] Implement Trees (Binary Tree, BST) in C++
+- [x] Implement Trees ([Binary Tree, BST](<Phase 1/7_binary_tree_from_scratch.cpp>)) in C++
 - [ ] Study tree traversal algorithms (DFS, BFS)
 - [ ] LeetCode: 3 Tree problems (Easy)
 - **Deliverable:** Tree implementations with unit tests
