@@ -24,8 +24,8 @@
 
 **6/12/2025 - Algorithm Foundations**
 - [x] [Review Big O notation and complexity analysis](<Phase 1/0 Algorithm Foundations.md>)
-- [] Implement basic data structures from scratch ([Array](<Phase 1/1_array_from_scratch.cpp>), [LinkedList](<Phase 1/2_linked_list_from_scratch.cpp>), [Stack](<Phase 1/3_stack_from_scratch.cpp>), Queue)
-- [ ] LeetCode: Complete 3 Easy problems
+- [x] Implement basic data structures from scratch ([Array](<Phase 1/1_array_from_scratch.cpp>), [LinkedList](<Phase 1/2_linked_list_from_scratch.cpp>), [Stack](<Phase 1/3_stack_from_scratch.cpp>), Queue)
+- [x] LeetCode: Complete 2 Easy problems
 - **Milestone:** Understand time/space complexity fundamentals
 
 **Wednesday - Data Structures Deep Dive**
