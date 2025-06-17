@@ -14,7 +14,7 @@
 ### Week 1: Programming Fundamentals & Setup
 **Daily Schedule (4-5 hours/day):**
 
-**Monday - Development Environment**
+**6/11/2025 - Development Environment**
 - [x] Set up comprehensive dev environment (VS Code, Git, Docker)
 - [x] Configure C++ development environment (CMake, GDB)
 - [x] Set up Python virtual environments and package management
@@ -22,9 +22,9 @@
 - **Deliverable:** Fully configured development setup
   - [VSCode with Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers)
 
-**Tuesday - Algorithm Foundations**
-- [ ] Review Big O notation and complexity analysis
-- [ ] Implement basic data structures from scratch (Array, LinkedList, Stack, Queue)
+**6/12/2025 - Algorithm Foundations**
+- [x] [Review Big O notation and complexity analysis](<Phase 1/0 Algorithm Foundations.md>)
+- [] Implement basic data structures from scratch ([Array](<Phase 1/1_array_from_scratch.cpp>), [LinkedList](<Phase 1/2_linked_list_from_scratch.cpp>), [Stack](<Phase 1/3_stack_from_scratch.cpp>), Queue)
 - [ ] LeetCode: Complete 3 Easy problems
 - **Milestone:** Understand time/space complexity fundamentals
 
